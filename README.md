@@ -6,6 +6,7 @@ básicos de Javascript. Se puede encontrar tanto el código como comentarios que
 de manera breve conceptos clave. 
 
 ## Contenido
+El curso abarca los siguientes temas: 
 1.- Tipos de datos
 2.- Variables
 3.- Funciones
