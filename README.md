@@ -2,8 +2,8 @@
 
 ## Descripción
 Este repositorio contiene una serie de ejercicios básicos para comprender los conceptos
-básicos de Javascript. Se puede encontrar tanto el código como comentarios que expliquen 
-de manera breve conceptos clave. 
+básicos de Javascript. Se puede encontrar tanto el código como comentarios que explican 
+conceptos clave abordados y de los ejercicios. 
 
 ## Contenido
 El curso abarca los siguientes temas: 
@@ -20,3 +20,5 @@ El curso abarca los siguientes temas:
 11. Arrays
 12. Ciclos For y For...of
 13. Ciclo While
+14. Objetos
+15. Métodos de Arrays
